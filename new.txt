@@ -1,0 +1,4 @@
+Fullname: Avazbekov Askatbek Avazbekovich
+Age: 20
+number of pets: 1
+future desired salary: 1000$
