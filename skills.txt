@@ -1,0 +1,9 @@
+git: yes
+postman: yes
+jmeter:yes
+Scrum:yes
+sql:yes
+javascript:no
+python:yes
+java:no
+ios, android testing:yes
